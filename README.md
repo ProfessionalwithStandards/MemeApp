@@ -1,3 +1,5 @@
+<img src="main/app/src/main/res/drawable/img.png" width="250" align="right" hspace="20">
+
 #A Meme App
 
-An app made for fun and entertainment.                                   ![Image](https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png)
+An app made for fun and entertainment.
