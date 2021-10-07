@@ -1,10 +1,10 @@
-package com.example.MemeApp
+package com.example.meme_app
 
+import MemeApp.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import com.bumptech.glide.Glide
-import MemeApp.R
 import kotlinx.android.synthetic.main.activity_meme_detail.*
 
 class MemeDetail : AppCompatActivity() {

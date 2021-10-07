@@ -1,4 +1,4 @@
-package com.example.MemeApp.Fragment
+package com.example.meme_app.fragment
 
 import MemeApp.R
 import android.content.res.ColorStateList
@@ -10,10 +10,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.MemeApp.RetroFit.RetrofitClient
-import com.example.trials_1.ListAdapter
+import com.example.meme_app.RetroFit.RetrofitClient
+import com.example.meme_app.ListAdapter
 import kotlinx.android.synthetic.main.fragment_meme.*
-import com.example.MemeApp.JSONClasses.Posts
+import com.example.meme_app.JSONClasses.Posts
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

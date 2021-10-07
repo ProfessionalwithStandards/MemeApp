@@ -1,6 +1,6 @@
-package com.example.MemeApp.RetroFit
+package com.example.meme_app.RetroFit
 
-import com.example.MemeApp.JSONClasses.Posts
+import com.example.meme_app.JSONClasses.Posts
 import retrofit2.http.GET
 import retrofit2.Call
 

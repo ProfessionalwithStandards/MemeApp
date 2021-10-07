@@ -1,5 +1,6 @@
-package com.example.trials_1
+package com.example.meme_app
 
+import MemeApp.R
 import android.content.Context
 import android.content.Intent
 import androidx.recyclerview.widget.RecyclerView
@@ -10,10 +11,8 @@ import android.widget.ImageView
 import android.widget.Toast
 import com.bumptech.glide.Glide
 import android.widget.TextView
-import com.example.MemeApp.MemeDetail
-import MemeApp.R
 import com.google.android.material.card.MaterialCardView
-import com.example.MemeApp.JSONClasses.Posts
+import com.example.meme_app.JSONClasses.Posts
 import retrofit2.Response
 
 class ListAdapter(private val context: Context,val posts: Response<Posts>) : RecyclerView.Adapter<ViewHolder>() {

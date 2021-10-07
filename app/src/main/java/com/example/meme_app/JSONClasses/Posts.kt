@@ -1,4 +1,4 @@
-package com.example.MemeApp.JSONClasses
+package com.example.meme_app.JSONClasses
 
 import com.google.gson.annotations.SerializedName
 

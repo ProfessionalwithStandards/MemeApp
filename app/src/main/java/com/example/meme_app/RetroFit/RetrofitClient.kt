@@ -1,4 +1,4 @@
-package com.example.MemeApp.RetroFit
+package com.example.meme_app.RetroFit
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

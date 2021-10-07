@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Git Repo/MemeApp/app/src/main/res/layout/activity_main.xml" value="0.17905982905982906" />
+        <entry key="..\:/Git Repo/MemeApp/app/src/main/res/layout/activity_meme_detail.xml" value="0.20208333333333334" />
+        <entry key="..\:/Git Repo/MemeApp/app/src/main/res/layout/fragment_meme.xml" value="0.381025641025641" />
         <entry key="..\:/Users/mysti/AndroidStudioProjects/TestingFragmentinKotlin/app/src/main/res/drawable/shape.xml" value="0.1515" />
         <entry key="..\:/Users/mysti/AndroidStudioProjects/TestingFragmentinKotlin/app/src/main/res/layout-v26/item_list.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/mysti/AndroidStudioProjects/TestingFragmentinKotlin/app/src/main/res/layout/activity_main.xml" value="0.1" />

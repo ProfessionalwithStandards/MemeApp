@@ -1,4 +1,4 @@
-package layout
+package com.example.meme_app.JSONClasses
 
 
 /* TODO                     0_0
