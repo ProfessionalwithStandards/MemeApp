@@ -1,4 +1,4 @@
-<img src="main/app/src/main/res/drawable/img.png" width="250" align="right" hspace="20">
+<img src="https://github.com/ProfessionalwithStandards/MemeApp/blob/main/app/src/main/res/drawable/img.png?raw=true" width="250" align="right" hspace="20">
 
 #A Meme App
 
